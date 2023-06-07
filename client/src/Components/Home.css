@@ -1,0 +1,32 @@
+.main{
+
+
+    background-color: skyblue;
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+}
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+    margin-top: 100px;
+    width: 500px;
+    background: rgba( 231, 201, 201, 0.15 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 2px );
+-webkit-backdrop-filter: blur( 2px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+margin-left: 30%;
+  }
+  
+  .home-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
